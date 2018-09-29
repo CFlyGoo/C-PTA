@@ -1,5 +1,4 @@
 .idea
 .DS_Store
-CMakeFiles/
-make-build-debug/
-CMakeCache.txt
+cmake-build-debug/
+Makefile

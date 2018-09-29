@@ -10,3 +10,5 @@ add_executable(qq-register-and-login src/qq-register-and-login.c)
 add_executable(array-two-stack src/array-two-stack.c test/array-two-stack-test.c)
 
 add_executable(traversing-tree src/traversing-tree.c test/traversing-tree-test.c)
+
+add_executable(reverse-lookup-linked-list src/reverse-lookup-linked-list.c)
